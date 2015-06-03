@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UnitMotor.js">
+    <Files>
+      <File FileName="Assets\Costs.js" Line="35" Column="1" />
+      <File FileName="Assets\CameraMotion.js" Line="14" Column="4" />
+      <File FileName="Assets\SpawnUnits.js" Line="1" Column="1" />
+      <File FileName="Assets\UnitMotor.js" Line="126" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
